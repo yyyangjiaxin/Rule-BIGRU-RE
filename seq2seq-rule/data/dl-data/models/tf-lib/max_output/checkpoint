@@ -1,0 +1,3 @@
+model_checkpoint_path: "model.ckpl"
+all_model_checkpoint_paths: "..\\output_couplet\\model.ckpl"
+all_model_checkpoint_paths: "model.ckpl"
